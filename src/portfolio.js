@@ -260,8 +260,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/speechai.jpg"),
-      projectName: "Flipr-Stock price monitoring",
-      projectDesc: "A project for Flipr-Hackathon, to monitor stock price.",
+      projectName: "Speech.Ai",
+      projectDesc: "A project for Mercor Hackathon, Voice-to-Native Language Conversational Assistant with ChatGPT.",
       footerLink: [
         {
           name: "Visit Website",
