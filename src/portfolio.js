@@ -260,7 +260,7 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/speechai.jpg"),
-      projectName: "Speech.Ai",
+      projectName: "Speech.ai",
       projectDesc: "A project for Mercor Hackathon, Voice-to-Native Language Conversational Assistant with ChatGPT.",
       footerLink: [
         {
